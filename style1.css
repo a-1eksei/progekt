@@ -1,0 +1,35 @@
+body {
+    font-family: "poppins", sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background: linear-gradient(90deg, rgba(4,77,25,1) 0%, rgba(11,121,9,1) 41%, rgba(0,212,255,1) 100%);
+}
+h1{
+    padding-left: 40%;
+}
+h2, h3 {
+    color: #c2662d;
+    padding-left: 1%;
+}
+section {
+    margin-bottom: 20px;
+}
+header.conteiner{
+     float: right;
+    width:600px;
+    padding: 10px 10px;
+}
+.wrapper{
+    background:linear-gradient(90deg, rgb(237, 119, 9) 0%, rgba(26,9,121,1) 35%, rgba(0,212,255,1) 100%); 
+    width: 100%;
+}
+.info-social{
+    padding-left: 40%;
+     
+}
+.social-link{
+    padding: 1px 20px;
+}
+.contact__column_map{
+    width: 100%;
+}
